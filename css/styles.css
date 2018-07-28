@@ -1,0 +1,30 @@
+h1 {
+  color: #dda0dd;
+  font-size: 72px;
+}
+
+body {
+  background-color: #eeeff6;
+}
+
+.list-item {
+  font-family:fantasy;
+}
+
+#espionage-item {
+  color: #ff77e5;
+}
+
+#word-list {
+  border-style: solid;
+  border-color: #9309b4;
+  width: 30%;
+}
+
+#picture {
+  width: 20%;
+  float: right;
+  border: solid;
+  border-color: pink purple purple pink;
+  border-width: 20px;
+}
